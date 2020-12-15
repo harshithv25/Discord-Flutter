@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "129920605981",
+    "firebase_url": "https://facebook-clone-55.firebaseio.com",
+    "project_id": "facebook-clone-55",
+    "storage_bucket": "facebook-clone-55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129920605981:android:c98b39ac2727bf53638bf4",
+        "android_client_info": {
+          "package_name": "com.example.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129920605981-b9cg6jp7gv67kh26pspn5crc0sg1e0u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC56j1akgtYdf5SHJOeclBSYtjtCqChv-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129920605981-b9cg6jp7gv67kh26pspn5crc0sg1e0u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
